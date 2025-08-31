@@ -1,3 +1,5 @@
+//Q22: Write a program to find profit or loss percentage given cost price and selling price.
+
 #include<stdio.h>
 int main()
 {
@@ -21,4 +23,5 @@ int main()
         printf("no profit and no loss\n");
     }
     return 0;
+
 }
