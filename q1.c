@@ -1,3 +1,5 @@
+//Q1: Write a program to input two numbers and display their sum.
+
 #include<stdio.h>
 int main()
 {
@@ -12,4 +14,5 @@ int main()
 
     printf("sum is:%d",sum);
     return 0;
+
 }
