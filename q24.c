@@ -1,4 +1,4 @@
-/*Write a program to calculate electricity bill based on units consumed with these rates: 
+/*Q24:Write a program to calculate electricity bill based on units consumed with these rates: 
 First 100 units at ₹5/unit 
 Next 100 units at ₹7/unit 
 Next 100 units at ₹10/unit 
@@ -32,3 +32,4 @@ int main()
     printf("bill:%d\n",bill);
     return 0;
 }
+
